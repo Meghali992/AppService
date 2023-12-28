@@ -59,4 +59,4 @@ jobs:
           app-name: 'CICDTEST7'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A425807FEA114621B0CBDC3640C9BBE1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_681F4B44BC7B477CA57093E9C7FDB9A5 }}
